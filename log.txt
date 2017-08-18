@@ -1,0 +1,69 @@
+{
+  "front": "color of sun",
+  "back": "yellow",
+  "type": "basicCard"
+};
+{
+  "front": "Capitol of california?",
+  "back": "Sacramento",
+  "type": "basicCard"
+};
+{
+  "text": "George Washington",
+  "cloze": "George",
+  "partial": "...... Washington",
+  "type": "cloze"
+};
+{
+  "text": "Honolulu is the capital of hawaii",
+  "cloze": "Honolulu",
+  "partial": "...... is the capital of hawaii",
+  "type": "cloze"
+};
+{
+  "front": "How old is Jeremy?",
+  "back": "25",
+  "type": "basicCard"
+};
+{
+  "front": "sun is what color",
+  "back": "yellow",
+  "type": "basicCard"
+};
+{
+  "front": "sick of everything lol",
+  "back": "yes",
+  "type": "basicCard"
+};
+{
+  "front": "can this take any longer?",
+  "back": "no",
+  "type": "basicCard"
+};
+{
+  "front": "this is long",
+  "back": "agonizing",
+  "type": "basicCard"
+};
+{
+  "front": "okay options working",
+  "back": "yes",
+  "type": "basicCard"
+};
+{
+  "text": "Elton is 40 years old",
+  "cloze": "Elton",
+  "partial": "...... is 40 years old",
+  "type": "cloze"
+};
+{
+  "text": "",
+  "cloze": "",
+  "partial": "......",
+  "type": "cloze"
+};
+{
+  "front": "Who is the 1st president of the USA?",
+  "back": "Washington",
+  "type": "basicCard"
+};
